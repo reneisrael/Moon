@@ -8,7 +8,7 @@ logo:               'assets/img/salbi-logo-200x200.png'
 background:         'assets/img/placeholder-big.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             es_MX
-url:                https://reneisrael.github.io/Salbi
+url:                https://reneisrael.github.io/salbi-01
 
 # Jekyll
 permalink:          /:title/
