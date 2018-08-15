@@ -26,7 +26,7 @@ sass:
   style:            compressed
 
 # Comments
-disqus_shortname:   salbi
+#disqus_shortname:   salbi
 
 # Social
 # if you don't have any of social below, comment the line.
@@ -38,7 +38,7 @@ disqus_shortname:   salbi
   #ad-slot:
 #bing-verify:
 #email:
-twitter:            salbi
+#twitter:            salbi
 facebook:           SALBI-AC-478106282592062
 #github-url:         username
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
@@ -52,7 +52,7 @@ facebook:           SALBI-AC-478106282592062
 #foursquare:        username
 #steam:              username
 #dribbble:          username
-youtube:           salbi
+#youtube:           salbi
 #youtube-channel:   channel
 #soundcloud:        username
 #weibo:             username
